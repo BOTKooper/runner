@@ -37,5 +37,6 @@ export const list =  [
     'https://stroi.gov.ru/',
     'https://proverki.gov.ru/',
     'https://109.207.1.118/',
-    'https://109.207.1.97/'
+    'https://109.207.1.97/',
+    'https://economy.gov.ru',
 ];
