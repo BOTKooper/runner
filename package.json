@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "main": "script.js",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
