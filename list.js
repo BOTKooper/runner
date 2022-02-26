@@ -29,5 +29,13 @@ export const list =  [
     'https://www.nalog.gov.ru/',
     'https://customs.gov.ru/',
     'https://pfr.gov.ru/',
-    'https://rkn.gov.ru/'
+    'https://rkn.gov.ru/',
+    'https://mail.rkn.gov.ru/',
+    'https://cloud.rkn.gov.ru',
+    'https://mvd.gov.ru',
+    'https://pwd.wto.economy.gov.ru/',
+    'https://stroi.gov.ru/',
+    'https://proverki.gov.ru/',
+    'https://109.207.1.118/',
+    'https://109.207.1.97/'
 ];
