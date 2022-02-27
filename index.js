@@ -11,7 +11,7 @@ list.forEach((uri) => {
         launched++;
         console.log(`launching ${launched}/${TOTAL}`);
         child_process.exec(
-            `docker run -i --rm alpine/bombardier -c 10000 -d 24h -l ${uri}`,
+            `docker run -i --rm alpine/bombardier -c 1000 -d 24h -l ${uri}`,
             (err, stdout, stderr) => {
                 if(err) {
                     console.log({ uri, err });
